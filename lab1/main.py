@@ -1,1 +1,2 @@
-__author__ = 'vitaliyvrublevskiy'
+# -*- coding: utf-8 -*-
+

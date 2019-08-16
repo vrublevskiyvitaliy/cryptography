@@ -12,8 +12,8 @@ def encrypt():
 
     alphabet = lang.get_alphabet()
 
-    key = random.randint(1, 31)
-    print "key = " + str(key)
+    key = 12#random.randint(1, 31)
+    #print "key = " + str(key)
 
     for line in lines:
         new_line = ''
